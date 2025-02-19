@@ -1,7 +1,6 @@
-Flask
-pandas
 ultralytics
-torch
 transformers
 Pillow
+pandas
+torch
 flask-cors
