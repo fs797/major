@@ -1,7 +1,7 @@
-Flask==2.3.2
-pandas==2.0.0
-ultralytics==8.0.0
-torch==2.0.1
-transformers==4.30.0
-Pillow==9.3.0
-flask-cors==3.1.1
+Flask
+pandas
+ultralytics
+torch
+transformers
+Pillow
+flask-cors
