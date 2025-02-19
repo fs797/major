@@ -1,0 +1,6 @@
+ultralytics
+transformers
+Pillow
+pandas
+torch
+flask-cors
